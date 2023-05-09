@@ -1,4 +1,4 @@
-#Curso básico de HTML e CSS
+# Curso básico de HTML e CSS
 
 Este é um curso básico de HTML e CSS que aborda os conceitos fundamentais dessas linguagens de marcação e estilização, permitindo que o aluno aprenda a criar páginas web simples e eficientes.
 
